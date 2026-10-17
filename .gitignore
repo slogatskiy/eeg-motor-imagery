@@ -1,0 +1,14 @@
+# EEG data: large, re-downloadable, never commit
+data/
+*.edf
+*.fif
+mne_data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
